@@ -1,0 +1,7 @@
+autopep8==1.7.0
+pycodestyle==2.9.1
+pywebio==1.6.2
+toml==0.10.2
+tornado==6.2
+ua-parser==0.15.0
+user-agents==2.2.0
